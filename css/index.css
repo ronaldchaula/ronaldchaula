@@ -25,7 +25,14 @@ header div{
 header div img{
 width: inherit;
 border-radius: 37px;
+/* border: 1px solid black; */
 }
+header div h1{
+    font-size: 3vw;
+    font-weight: 700;
+    margin-left: 3%;
+    /* border: 1px solid black; */
+    }
 header nav{
     background-color: transparent;
     height: inherit;
