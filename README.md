@@ -1,5 +1,5 @@
 # Goal -> Personal portifolio 🏁
-## Front End ([KObweb](https://github.com/varabyte/kobweb))
+## Front End ([Kobweb](https://github.com/varabyte/kobweb))
 ### Mobile Website :check
    - Hero Section
       - transparent Top navigation
