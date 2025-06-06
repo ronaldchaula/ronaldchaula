@@ -1,6 +1,6 @@
-# Goal -> Personal portifolio
+# Goal -> Personal portifolio 🏁
 ## Front End
-### Mobile Website
+### Mobile Website :check
    - Hero Section
       - transparent Top navigation
         - logo
