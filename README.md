@@ -1,2 +1,51 @@
-Welcome to my personal portifolio
-I am intending to build this potifolio as a mean to showcase my skills and gain feedback from people who come into contact with it. It is my goal that it will introduce me to the potential people as someone they can count on on their software needs and technology consultancy.
+# Goal -> Personal poritifolio
+## Front End
+### Mobile Website
+   - Hero Section
+      - transparent Top navigation
+        - logo
+        - navigation drawer
+           - navigation list
+           - dark mode/light mode
+           - login and contact button
+    - Engineering Stack
+         - Compose Multiplatform
+         - Kobweb
+         - Ktor
+         - Postgress
+   - Services Offered
+       - Multiplatform Application Engineering
+       - Android Applictions
+       - WebApps Engineering
+       - Restful BackEnd Engineering
+       - Application Architecting
+       - Consultation
+    Footer
+       - Contact Form
+       - Socia Media
+       - Address and Active Hours
+         
+### Large Device Website
+   - Hero Section
+      - transparent Top navigation
+        - logo
+        - navigation drawer
+           - navigation list
+           - dark mode/light mode
+           - login and contact button
+    - Engineering Stack
+         - Compose Multiplatform
+         - Kobweb
+         - Ktor
+         - Postgress
+   - Services Offered
+       - Multiplatform Application Engineering
+       - Android Applictions
+       - WebApps Engineering
+       - Restful BackEnd Engineering
+       - Application Architecting
+       - Consultation
+    Footer
+       - Contact Form
+       - Socia Media
+       - Address and Active Hours
