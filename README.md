@@ -1,4 +1,4 @@
-# Goal -> Personal poritifolio
+# Goal -> Personal portifolio
 ## Front End
 ### Mobile Website
    - Hero Section
